@@ -1,5 +1,5 @@
 export default function Login() {
     return (
-        <div>Aniket Login</div>
+        <div>Aniket and Harshit Login</div>
     )
 }
